@@ -1,0 +1,29 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+client/.env
+server/.env
+
+# Build output
+dist/
+build/
+client/dist/
+client/build/
+server/dist/
+
+# Logs
+logs/
+*.log
+*.pid
+*.seed
+*.tgz
+
+# IDE
+.vscode/
+.idea/
+.DS_Store

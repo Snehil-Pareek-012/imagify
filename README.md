@@ -1,2 +1,3 @@
-# imagify
-A fastest and best text to image generator using the AI, just by simply giving a prompt.
+ "# Your Project Name" > README.md
+ "" >> README.md
+ "Full stack app (client + server) with Razorpay integration." >>
