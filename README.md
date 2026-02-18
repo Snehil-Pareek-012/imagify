@@ -67,7 +67,7 @@ npm run dev
 ```
 
 
-### . 🗺️ Roadmap & Future Enhancements
+###  🗺️ Roadmap & Future Enhancements
 [ ] Dockerization: Containerize the application for easier deployment.
 
 [ ] Social Feed: Allow users to share their generated art in a public gallery.
